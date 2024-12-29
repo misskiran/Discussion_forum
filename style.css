@@ -423,3 +423,14 @@ Post.html */
     min-height: 100px;
     margin-block : 10px;
 }
+
+.comment-area input{
+    float: right;
+    padding: 10px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.comment-area input:hover{
+    border: solid 1px #000000;
+}
