@@ -414,5 +414,12 @@ Post.html */
 }
 
 .comment-area{
-    
+    margin-top : 50px;
+}
+
+.comment-area textarea{
+    width: 100%;
+    padding: 10px;
+    min-height: 100px;
+    margin-block : 10px;
 }
