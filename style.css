@@ -435,3 +435,7 @@ Post.html */
 .comment-area input:hover{
     border: solid 1px #000000;
 }
+
+.comments-container{
+    margin-top:50px;
+}
