@@ -400,8 +400,8 @@ Post.html */
 }
 
 .body .authors img{
-    max-width: 50px;
-    max-height: 80px;
+    max-width: 100px;
+    max-height: 100px;
 }
 
 .body .content .comment button{
